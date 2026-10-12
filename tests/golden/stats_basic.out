@@ -1,0 +1,4 @@
+file         format  type  num_seqs  sum_len  min_len  avg_len  max_len
+small.fa     FASTA   DNA          5      475       10       95      200
+small.fq     FASTQ   DNA         12      975       50     81.3      150
+small.fq.gz  FASTQ   DNA         12      975       50     81.3      150

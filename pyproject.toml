@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fastxkit"
+dynamic = ["version"]
+description = "FASTA/FASTQ toolkit using only the Python standard library"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = []
+
+[project.scripts]
+fastxkit = "fastxkit.cli:main"
+
+[tool.setuptools.dynamic]
+version = { attr = "fastxkit.__version__" }
+
+[tool.setuptools]
+packages = ["fastxkit", "fastxkit.commands"]

@@ -1,0 +1,10 @@
+>a first
+ACGTACGTACGTAAAGGGCCC
+>c third
+TTTTGGGGCCCCAAAATTTT
+>a duplicate id
+GGGGGGGGGGGGGGGGGGGG
+>d fourth
+acgtacgtACGTAAAgggccc
+>e fifth
+TTGCATTGCATTGCA

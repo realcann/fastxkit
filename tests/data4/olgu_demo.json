@@ -1,0 +1,23 @@
+{
+ "ornek_tablosu": {
+  "deger": [
+   {
+    "ornek": "A",
+    "grup": "control",
+    "toplam_okuma": 30.0
+   },
+   {
+    "ornek": "B",
+    "grup": "control",
+    "toplam_okuma": 20
+   },
+   {
+    "ornek": "C",
+    "grup": "treated",
+    "toplam_okuma": 10
+   }
+  ],
+  "kaynak": "multiqc_general_stats.txt (sentetik)",
+  "konum": "demo"
+ }
+}

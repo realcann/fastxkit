@@ -1,0 +1,13 @@
+seqID	patternName	pattern	strand	start	end	matched
+r1	A+G+	A+G+	+	1	6	AAAGGG
+r1	A+G+	A+G+	+	2	6	AAGGG
+r1	A+G+	A+G+	+	3	6	AGGG
+r1	A+G+	A+G+	+	13	18	AAAGGG
+r1	A+G+	A+G+	+	14	18	AAGGG
+r1	A+G+	A+G+	+	15	18	AGGG
+r1	A+G+	A+G+	-	7	12	AAAGGG
+r1	A+G+	A+G+	-	7	11	AAGGG
+r1	A+G+	A+G+	-	7	10	AGGG
+r3	A+G+	A+G+	+	10	15	AAAGGG
+r3	A+G+	A+G+	+	11	15	AAGGG
+r3	A+G+	A+G+	+	12	15	AGGG
